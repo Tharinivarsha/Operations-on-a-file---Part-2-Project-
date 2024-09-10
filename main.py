@@ -1,0 +1,2 @@
+with open("coding.txt","w") as file:
+    file.write("Coding is the language of the computer. It tells the computer what to do. Without it we would not have the apps like Facebook, Whatsapp and all the other apps.")
